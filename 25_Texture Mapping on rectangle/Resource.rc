@@ -1,0 +1,12 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "template.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+
+ID_SMILEY               BITMAP                  "Smiley.bmp"
