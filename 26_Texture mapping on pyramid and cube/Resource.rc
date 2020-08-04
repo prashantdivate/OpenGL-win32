@@ -1,0 +1,14 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "template.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+ID_STONE BITMAP "Stone.bmp"
+ID_KUNDALI BITMAP "Kundali.bmp"
+
