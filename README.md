@@ -1,2 +1,5 @@
 # OpenGL-win32
-OpenGL demos using win32(native windowing)
+
+These are demo programs of OpenGL using win32
+
+
