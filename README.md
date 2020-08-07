@@ -29,3 +29,5 @@ $ rc.exe Resource.rc
 Contributions are always welcome!  
 Please read the [contribution guidelines](contributing.md) first.
 
+## License
+Use of this project is governed by the MIT License found at [LICENSE](./LICENSE).
